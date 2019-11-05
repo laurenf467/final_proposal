@@ -17,7 +17,7 @@ output: github_document
 
 ## The motivation for this project
 
-
+Stop and Frisk has been a controversial police tactic used for years as a way to briefly stop and search civilians who are of suspect. Police must have "reasonable suspicion" according to the fourth amendment to legally stop a person. Utilizing NYC Stop and Frisk data, we want to give insight into the most influential factors of those who are targeted by the Stop and Frisk tactic.
 
 ## The intended final products
 
