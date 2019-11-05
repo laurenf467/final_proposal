@@ -29,7 +29,24 @@ Stop and Frisk has been a controversial police tactic used for years as a way to
 
 ## The planned analyses / visualizations / coding challenges
 
+#### Analysis
 
+* Where do stops happen in NYC?
+  + Visual: Map of stops in NYC using xy coordinates in data
+* Are there trends in stops across time (over a year or by hour of day)?
+  + Visual: Line plot of stops over time
+* Regression analysis to identify key factors to predict if someone who was stopped will then be frisked
+  + Visual: ROC curve
+* Compare listed reasons that individuals were stopped
+  + Visual: Bar chart
+  
+#### Coding challenges
+
+* With over 12,000 rows and 112 columns, wrangling this dataset may be tricky
+* Check data quality and inconsistencies
+* Column names and values are not informative, so they need to be changed
+* Missing values will need to be addressed
+* Based on the provided data dictionary, it appears that there are issues with the `datestop` column that will need to be fixed before analysis
 
 ## The planned timeline
 
