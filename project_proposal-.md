@@ -25,3 +25,27 @@ The planned analyses / visualizations / coding challenges
 
 The planned timeline
 --------------------
+
+###### Week 1 (Nov. 4th - Nov. 7th):
+
+-   Find data and discuss initial plans for the project
+
+###### Week 2 (Nov. 11th - Nov. 15th):
+
+-   Import, clean, and tidy data
+-   Explore data
+-   Come up with final research questions and ideas for visualizations
+
+###### Week 3 (Nov. 18th - Nov. 22nd):
+
+-   Exploratory analysis, visualizations, summaries, and statistical analysis
+
+###### Week 4 (Nov. 25th - Nov. 29th):
+
+-   Build website
+-   Write report
+
+###### Week 5 (Dec. 2nd - Dec. 6th):
+
+-   Finalize analysis, website, and report
+-   Record screencast
