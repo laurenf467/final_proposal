@@ -8,22 +8,63 @@ Team Registation and Proposal
 The group members (names and UNIs)
 ----------------------------------
 
+<<<<<<< HEAD
 The tentative project title
 ---------------------------
 
 The motivation for this project
 -------------------------------
+=======
+  - Clayton Snyder (cs3779)
+  - Keyanna Davis (kd2640)
+  - Olya Besedina (ob2305)
+  - Matthew Parker (mp3745)
+  - Lauren Franks (lf2147)
+
+## The tentative project title
+
+**How likely are you to be stoped and frisked?**
+
+Or
+
+**Stop\! You are being frisked\!**
+
+## The motivation for this project
+>>>>>>> cfa49e71db50ff55d091581fa6f7507d69f772d0
 
 Stop and Frisk has been a controversial police tactic used for years as a way to briefly stop and search civilians who are of suspect. Police must have "reasonable suspicion" according to the fourth amendment to legally stop a person. Utilizing NYC Stop and Frisk data, we want to give insight into the most influential factors of those who are targeted by the Stop and Frisk tactic.
 
 The intended final products
 ---------------------------
 
+<<<<<<< HEAD
 The anticipated data sources
 ----------------------------
 
 The planned analyses / visualizations / coding challenges
 ---------------------------------------------------------
+=======
+Our final products will include a report summarizing our final results,
+and our entire analytical process of the 2016 Stop & Frisk Data Set, as
+well as a complimentary website that will provide access and curate the
+final report; creating visualizations and interactional displays to help
+guide readers through our report’s findings.
+
+## The anticipated data sources
+
+Our anticipated data source is going to be the publicly available data
+from NYC/the NYPD located at this URL:
+\[<https://www1.nyc.gov/site/nypd/stats/reports-analysis/stopfrisk.page>\]
+
+We intend on using the data set published from 2016 since the only
+complete data dictionary we could locate is from the 2016 data set.
+
+If we should need any additional data (like neighborhood demographics,
+etc.), we will most likely get them from NYC’s public database
+(<https://opendata.cityofnewyork.us/>).
+
+## The planned analyses / visualizations / coding challenges
+>>>>>>> cfa49e71db50ff55d091581fa6f7507d69f772d0
 
 #### Analysis
 
