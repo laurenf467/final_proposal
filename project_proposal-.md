@@ -10,9 +10,15 @@ Proposal
   - Keyanna Davis (kd2640)
   - Olya Besedina (ob2305)
   - Matthew Parker (mp3745)
-  - Lauren Franks (2147)
+  - Lauren Franks (lf2147)
 
 ## The tentative project title
+
+**How likely are you to be stoped and frisked?**
+
+Or
+
+**Stop\! You are being frisked\!**
 
 ## The motivation for this project
 
