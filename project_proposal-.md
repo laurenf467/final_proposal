@@ -25,7 +25,24 @@ by the Stop and Frisk tactic.
 
 ## The intended final products
 
+Our final products will include a report summarizing our final results,
+and our entire analytical process of the 2016 Stop & Frisk Data Set, as
+well as a complimentary website that will provide access and curate the
+final report; creating visualizations and interactional displays to help
+guide readers through our report’s findings.
+
 ## The anticipated data sources
+
+Our anticipated data source is going to be the publicly available data
+from NYC/the NYPD located at this URL:
+\[<https://www1.nyc.gov/site/nypd/stats/reports-analysis/stopfrisk.page>\]
+
+We intend on using the data set published from 2016 since the only
+complete data dictionary we could locate is from the 2016 data set.
+
+If we should need any additional data (like neighborhood demographics,
+etc.), we will most likely get them from NYC’s public database
+(<https://opendata.cityofnewyork.us/>).
 
 ## The planned analyses / visualizations / coding challenges
 
