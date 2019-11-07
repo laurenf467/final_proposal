@@ -6,6 +6,12 @@ Proposal
 
 ## The group members (names and UNIs)
 
+  - Clayton Snyder (cs3779)
+  - Keyanna Davis (kd2640)
+  - Olya Besedina (ob2305)
+  - Matthew Parker (mp3745)
+  - Lauren Franks (2147)
+
 ## The tentative project title
 
 ## The motivation for this project
